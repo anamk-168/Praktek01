@@ -10,5 +10,7 @@ package praktek01;
  * @author anam.ict.wbm
  */
 public class MahasiswaAksi {
-    
+    public static void main(String[] args) {
+      Mahasiswa Harry = new Mahasiswa(); 
+    }
 }
